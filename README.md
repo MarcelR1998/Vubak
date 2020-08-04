@@ -26,12 +26,12 @@ Now you're ready to use it in the template!
 ```
 ## Configuration
 Vubak relies on the following attributes to set it up and style it: <br />
-url: Your url for Incoming Webhooks url, can be found in the app setting in slack. <br />
+* url: Your url for Incoming Webhooks url, can be found in the app setting in slack. <br />
 [https://slack.com/apps/manage](https://slack.com/apps/manage) <br />
-title: Title text at the top of the component. <br />
-buttonText: Text for submit button. <br />
-backgroundStyle/buttonStyle: here you can enter some styling for the component, such as background. 
-titleStyle: style for title. <br />
+* title: Title text at the top of the component. <br />
+* buttonText: Text for submit button. <br />
+* backgroundStyle/buttonStyle: here you can enter some styling for the component, such as background. 
+* titleStyle: style for title. <br />
 ```
 <Vuback 
     url="<Your Incoming Webhooks url goes here>" 
