@@ -1,6 +1,6 @@
 {
   "name": "vubak",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Simple Vue component to integrate one-way communication between your app and any Slack channel.",
   "main": "Vubak.vue",
   "scripts": {
