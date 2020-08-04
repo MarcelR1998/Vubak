@@ -1,0 +1,22 @@
+{
+  "name": "vubak",
+  "version": "1.0.17",
+  "description": "Simple Vue component to integrate one-way communication between your app and any Slack channel.",
+  "main": "Vubak.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Feedbak",
+    "Vue",
+    "Slack",
+    "Incoming Webhooks",
+    "Service",
+    "Support"
+  ],
+  "author": "marcelr1998",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.11"
+  }
+}
