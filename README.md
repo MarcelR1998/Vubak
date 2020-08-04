@@ -2,7 +2,7 @@
 Vubak is a simple Vue component to integrate one-way communication between your app and any Slack channel, and can be used to easily collect user feedback or similar messages from your front end.
 It uses Slack's Incoming Webhooks app to transmit messages via a simple HTTP post request, and is simple to add to your Slack channel and set up in minutes. <br />
 [Incoming Webhooks](https://api.slack.com/messaging/webhooks)
- ![image1](.images/image1.jpg)<br />
+ ![image1](./images/image1.jpg)<br />
 
 ## Installation
 ```bash
@@ -41,4 +41,4 @@ titleStyle: style for title. <br />
     buttonStyle="background-color: #25c12b;" 
  />
 ```
- ![image1](.images/image2.jpg)<br /># Vubak
+ ![image1](./images/image2.jpg)<br />
