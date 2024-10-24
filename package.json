@@ -17,6 +17,6 @@
   "author": "marcelr1998",
   "license": "ISC",
   "dependencies": {
-    "vue": "^2.6.11"
+    "vue": "^3.0.0"
   }
 }
